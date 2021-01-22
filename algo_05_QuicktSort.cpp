@@ -1,5 +1,5 @@
 #include <stdio.h>
-// Quick Sort(ÄüÁ¤·Ä) -> O(N * logN)
+// Quick Sort(ÄüÁ¤·Ä) -> O(N * logN) but ÃÖ¾ÇÀÇ °æ¿ì  O(N^2) 
 
 int number = 10;
 int data[10] = {1, 10, 5, 8, 7, 6, 4, 3, 2, 9};
