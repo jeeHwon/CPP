@@ -2,7 +2,7 @@
 //Heap sort() -> O(N * logN)
 
 int number = 9;
-int heap[9] = {7, 6 , 5, 8, 3, 5, 9, 1, 6};
+int heap[9] = {7, 6, 5, 8, 3, 5, 9, 1, 6};
 
 int main(void){
 	// 먼저 전체 트리 구조를 최대힙 구조로 바꾼다 
